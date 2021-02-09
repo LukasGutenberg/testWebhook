@@ -12,3 +12,5 @@ test 35
 testforexcept
 
 testgotexcept
+
+test 36
